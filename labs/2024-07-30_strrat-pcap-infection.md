@@ -101,7 +101,7 @@ I found CN=Clark Collier in the LDAP search request to the DC
 
 Interpretation: 
 
-The infected machine queried the domain controller for user inforamtion. This is a normal domain behaviour, anchoring the username to a real person.
+The infected machine queried the domain controller for user information. This is a normal domain behaviour, anchoring the username to a real person.
 
 ### Finding: Suspicious traffic to file sharing domains
 
